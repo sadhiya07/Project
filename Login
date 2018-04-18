@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>PU Elections</title>
+</head>
+<body>
+<form>
+<center>
+Username: <input type="text" name="username" required ></br>
+Password: <input type="password" name="password" required ></br>
+<input type="button" value="Login"></br>
+</center>
+</form>
+</body>
+</html>
